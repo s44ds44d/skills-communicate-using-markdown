@@ -4,3 +4,5 @@
 #### Preview of Header 4
 ##### Preview of Header 5
 ###### Preview of Header 6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
